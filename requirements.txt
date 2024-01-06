@@ -2,6 +2,7 @@ statsforecast
 neuralforecast
 mlforecast
 hierarchicalforecast
+utilsforecast
 tsfeatures
 lightgbm
 xgboost
